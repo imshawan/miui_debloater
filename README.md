@@ -8,4 +8,4 @@ https://drive.google.com/drive/folders/13cJDEJyl9oKeRd81oKOXb6b3Uy9oayvV
 
 Enable USB Debugging from developer options
 
-If already install then proceed
+If already done then proceed
