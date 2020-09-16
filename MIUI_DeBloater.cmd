@@ -55,4 +55,7 @@ for %%X in (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
 )
+@echo Operation Completed successfully!!!
+@echo Few errors were displayed because the script couldn't find some packages
+@echo installed in your device.
 pause
