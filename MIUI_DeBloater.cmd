@@ -49,9 +49,7 @@ for %%X in (
 "com.xiaomi.mipicks"
 "com.xiaomi.miplay_client"
 "com.xiaomi.oversea.ecom"
-"com.xiaomi.payment"
-"com.xiaomi.providers.appindex"
-"com.xiaomi.xmsf" ) do (
+"com.xiaomi.payment" ) do (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
 )
